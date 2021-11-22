@@ -1,6 +1,6 @@
 Package: microRNAome
-Version: 1.17.0
-Date: 2017-11-14
+Version: 1.17.1
+Date: 2021-11-21
 Title: SummarizedExperiment for the microRNAome project
 Description: This package provides a SummarizedExperiment object of
         read counts for microRNAs across tissues, cell-types, and
