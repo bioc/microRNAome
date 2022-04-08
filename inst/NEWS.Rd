@@ -2,6 +2,12 @@
 \title{microRNAome News}
 \encoding{UTF-8}
 
+\section{Version 1.7.2}{
+  \itemize{
+    \item Add microRNAome_v2 data.
+  }
+}
+
 \section{Version 1.1.2}{
   \itemize{
     \item Fix unit test error.
