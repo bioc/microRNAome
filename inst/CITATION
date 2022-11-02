@@ -10,3 +10,17 @@ citEntry(entry="article",
 	textVersion="Toward the human cellular microRNAome
 Matthew N McCall, Min-Sik Kim, Mohammed Adil, Arun H Patil, Yin Lu, Christopher J Mitchell, Pamela Leal-Rojas, Jinchong Xu, Manoj Kumar, Valina L Dawson, Ted M Dawson, Alexander S Baras, Avi Z Rosenberg, Dan E Arking, Kathleen H Burns, Akhilesh Pandey, Marc Halushka (2017). Toward the human cellular microRNAome. Genome Research. 27(10):1769-1781."
 )
+
+citEntry(entry="article",
+        author = "Arun H Patil and Andrea Baran and Zachary P Brehm and Matthew N McCall and Marc K Halushka"
+        title = "A curated human cellular microRNAome based on 196 primary cell types",
+        year = "2022",
+        doi = "10.1093/gigascience/giac083",
+        publisher = "Oxford Academic",
+        URL = "https://doi.org/10.1093/gigascience/giac083",
+        eprint = "https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/giac083/45809922/giac083.pdf",
+        journal = "Gigascience",
+        textVersion="A curated human cellular microRNAome based on 196 primary cell types
+Arun H Patil and Andrea Baran and Zachary P Brehm and Matthew N McCall and Marc K Halushka
+)
+

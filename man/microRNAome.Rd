@@ -2,12 +2,9 @@
 \alias{microRNAome}
 \docType{data}
 \title{MicroRNAome Data}
-\description{Read counts per miRNA for the microRNAome collection of 
-RNA-Seq experiments}
+\description{Read counts per miRNA for the microRNAome collection of RNA-Seq experiments}
 \details{
-New small RNA-seq data from 39 primary cells obtained by culture, flow 
-cytometry or centrifugation were augmented with Sequence Read Archive (SRA)
-small RNA-seq read data from 496 samples with over 1 million microRNA reads, and the data from FANTOM5 and the Hemmrich-Stanisak lab. All samples were processed through miRge (Baras et al. 2015), which uses modified microRNA libraries and multiple Bowtie steps for optimal alignments on multiplexed runs. 
+Small RNA-seq data on 2406 samples from the Sequence Read Archive (SRA) processed using the miRge3 pipeline.
 }
 \usage{
 data("microRNAome")
@@ -15,10 +12,9 @@ data("microRNAome")
 \format{SummarizedExperiment}
 \source{Read count matrix prepared and provided by authors of the study}
 \references{
-Matthew N McCall, Min-Sik Kim, Mohammed Adil, Arun H Patil, Yin Lu, 
-Christopher J Mitchell, Pamela Leal-Rojas, Jinchong Xu, Manoj Kumar, 
-Valina L Dawson, Ted M Dawson, Alexander S Baras, Avi Z Rosenberg, 
-Dan E Arking, Kathleen H Burns, Akhilesh Pandey, Marc Halushka (2017). Toward the human cellular microRNAome. Genome Research. 27(10):1769-1781.
+Matthew N McCall, Min-Sik Kim, Mohammed Adil, Arun H Patil, Yin Lu, Christopher J Mitchell, Pamela Leal-Rojas, Jinchong Xu, Manoj Kumar, Valina L Dawson, Ted M Dawson, Alexander S Baras, Avi Z Rosenberg, Dan E Arking, Kathleen H Burns, Akhilesh Pandey, Marc Halushka (2017). Toward the human cellular microRNAome. Genome Research. 27(10):1769-1781.\\
+\\
+Patil AH, Baran A, Brehm ZP, McCall MN, Halushka MK. A curated human cellular microRNAome based on 196 primary cell types. Gigascience. 2022 Aug 25;11:giac083. doi: 10.1093/gigascience/giac083.
 }
 \examples{
 data(microRNAome)

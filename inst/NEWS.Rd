@@ -2,6 +2,12 @@
 \title{microRNAome News}
 \encoding{UTF-8}
 
+\section{Version 1.21.1}{
+  \itemize{
+     \item Updated microRNAome data to the latest published version (v3) processed with the latest version of miRge. 
+  }
+}
+
 \section{Version 1.7.2}{
   \itemize{
     \item Add microRNAome_v2 data.
