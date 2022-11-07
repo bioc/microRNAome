@@ -1,4 +1,4 @@
-citEntry(entry="article",
+citEntry(entry = "article",
         author = "Matthew N McCall and Min-Sik Kim and Mohammed Adil and Arun H Patil and Yin Lu and Christopher J Mitchell and Pamela Leal-Rojas and Jinchong Xu and Manoj Kumar and Valina L Dawson and Ted M Dawson and Alexander S Baras and Avi Z Rosenberg and Dan E Arking and Kathleen H Burns and Akhilesh Pandey and Marc Halushka",
 	title = "Toward the human cellular microRNAome",
         year = "2017",
@@ -7,12 +7,13 @@ citEntry(entry="article",
 	URL = "http://genome.cshlp.org/content/27/10/1769",
 	eprint = "http://genome.cshlp.org/content/27/10/1769.full.pdf",
 	journal = "Genome Research",
-	textVersion="Toward the human cellular microRNAome
-Matthew N McCall, Min-Sik Kim, Mohammed Adil, Arun H Patil, Yin Lu, Christopher J Mitchell, Pamela Leal-Rojas, Jinchong Xu, Manoj Kumar, Valina L Dawson, Ted M Dawson, Alexander S Baras, Avi Z Rosenberg, Dan E Arking, Kathleen H Burns, Akhilesh Pandey, Marc Halushka (2017). Toward the human cellular microRNAome. Genome Research. 27(10):1769-1781."
+	textVersion = paste("Matthew N. McCall, et al. (2017):"
+                            "Toward the human cellular microRNAome.",
+                            "Genome Research. 27(10):1769-1781.")
 )
 
-citEntry(entry="article",
-        author = "Arun H Patil and Andrea Baran and Zachary P Brehm and Matthew N McCall and Marc K Halushka"
+citEntry(entry = "article",
+        author = "Arun H Patil and Andrea Baran and Zachary P Brehm and Matthew N McCall and Marc K Halushka",
         title = "A curated human cellular microRNAome based on 196 primary cell types",
         year = "2022",
         doi = "10.1093/gigascience/giac083",
@@ -20,7 +21,8 @@ citEntry(entry="article",
         URL = "https://doi.org/10.1093/gigascience/giac083",
         eprint = "https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/giac083/45809922/giac083.pdf",
         journal = "Gigascience",
-        textVersion="A curated human cellular microRNAome based on 196 primary cell types
-Arun H Patil and Andrea Baran and Zachary P Brehm and Matthew N McCall and Marc K Halushka
+        textVersion = paste("Arun H Patil et al. (2022):",
+                            "A curated human cellular microRNAome based on 196 primary cell types.",
+                            "Gigascience. Volume 11, 10.1093/gigascience/giac083.")
 )
 
